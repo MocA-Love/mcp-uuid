@@ -4,7 +4,7 @@
 このMCPサーバーは、UUIDを生成するためのシンプルなサービスを提供します。
 
 ## 環境要件
-- Python 3.10以上
+- Python 3.12以上
 - MCP(Model Context Protocol)パッケージ v1.2.0以上
 - Claude Desktop
 
